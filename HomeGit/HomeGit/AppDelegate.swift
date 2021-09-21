@@ -32,5 +32,7 @@ class AppDelegate: UIResponder, UIApplicationDelegate {
     }
     
     func appMethod() {}
+    
+    func anotherAppMethod() {}
 }
 
